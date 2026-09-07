@@ -4,7 +4,8 @@ An interactive Power BI dashboard built to analyze supply chain performance acro
 
 ## 📊 Dashboard Preview
 
-![Supply Chain Dashboard](https://raw.githubusercontent.com/raselraza76/-Supply-Chain-Management-Analysis/main/supply_chain.jpeg)
+![Supply Chain Dashboard](https://raw.githubusercontent.com/raselraza76/-Supply-Chain-Management-Analysis/main/supplychain.png)
+
 
 
 ## 🎯 Project Overview
