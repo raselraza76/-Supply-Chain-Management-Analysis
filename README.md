@@ -205,4 +205,3 @@ Through this project, I practiced:
 
 This project was created as part of my **Data Analytics portfolio** to practice working with real-world business problems and transform raw supply chain data into an interactive and easy-to-understand Power BI dashboard.
 
-। বিশেষ করে **Warehouse Utilization 34.08, Days of Inventory 15.56, Inventory Turnover 23.47**—এগুলোর unit/definition README-তে পরিষ্কার রাখা ভালো।
